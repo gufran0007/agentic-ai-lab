@@ -1,0 +1,11 @@
+[
+  {
+    "task": "Parse an AWS CloudFormation template JSON and extract all the logical IDs of resources that have type 'AWS::S3::Bucket'"
+  },
+  {
+    "task": "Write a Python function that takes an AWS IAM policy JSON document and returns a list of all the actions (effect: 'Allow') that are permitted"
+  },
+  {
+    "task": "Create a regex pattern that validates an AWS S3 bucket name according to AWS naming rules (3-63 characters, lowercase letters, numbers, hyphens only, must start and end with letter or number)"
+  }
+]
